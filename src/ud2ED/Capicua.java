@@ -26,6 +26,9 @@ public class Capicua {
 		
 		System.out.println(dm+" "+m+" "+" "+c+" "+
 				d+" "+u);
+
+		System.out.println(dm+" "+m+" "+" "+c+" "+
+				d+" "+u);
 		
 
 	}
